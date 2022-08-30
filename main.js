@@ -11,7 +11,7 @@ else{
     console.log(`Hello mrs ${nom}`);
 }
 
-const Contact = require("./contact.js");
+const Contact = require("./atelier-1/contact.js");
 let contact = new Contact("Nicolas","nicolas@gmail.com","(514-333-5656");
 console.log(contact);
 
